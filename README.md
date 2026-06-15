@@ -180,7 +180,7 @@ This project is released under the terms of the included LICENSE file.
 
 ## 👨‍💻 Author
 
-**Parsa**
+**Parsanzm**
 
 Computer Engineering Student
 
