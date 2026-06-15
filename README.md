@@ -27,7 +27,7 @@ The system is implemented using a **Finite State Machine (FSM)** approach and ut
 ## 🎬 Live Simulation
 
 <p align="center">
-  <img src="Images/demo.gif" alt="Traffic Light Simulation Demo" width="850">
+  <img src="Images/Demo.gif" alt="Traffic Light Simulation Demo" width="850">
 </p>
 
 The animation above demonstrates the operation of the traffic light controller during simulation, including traffic signal transitions and countdown behavior.
