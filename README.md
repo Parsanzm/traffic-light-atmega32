@@ -1,7 +1,7 @@
 # 🚦 Traffic Light Controller using ATmega32
 
 <p align="center">
-  <img src="Images/circuit.png" alt="Traffic Light Controller Circuit" width="850">
+  <img src="Images/Demo.gif" alt="Traffic Light Simulation Demo" width="850">
 </p>
 
 <h3 align="center">
@@ -26,9 +26,7 @@ The system is implemented using a **Finite State Machine (FSM)** approach and ut
 
 ## 🎬 Live Simulation
 
-<p align="center">
-  <img src="Images/Demo.gif" alt="Traffic Light Simulation Demo" width="850">
-</p>
+
 
 The animation above demonstrates the operation of the traffic light controller during simulation, including traffic signal transitions and countdown behavior.
 
